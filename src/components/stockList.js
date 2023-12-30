@@ -1,4 +1,4 @@
-// src/components/StockList.js
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import "chart.js/auto";

@@ -1,4 +1,4 @@
-/* src/components/StockList.css */
+
 
 .stock-list-container {
   text-align: center;
@@ -13,7 +13,7 @@
 }
 
 .stock-item {
-  width: 100%; /* Set the width to 100% for one stock option per row */
+  width: 100%; 
   margin: 15px;
   padding: 20px;
   border: 1px solid #ddd;
